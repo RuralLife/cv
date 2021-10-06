@@ -3,16 +3,10 @@
    width: 100% ;
 }
 
-.training-table {
-   table-layout: fixed ;
-   width: 67% ;
-}
-
 .other-table {
    table-layout: fixed ;
    width: 75% ;
 }
-
 
 .tab2 {
    text-indent: 218px;
@@ -23,4 +17,8 @@
 }
 .tab4 {
    text-indent: 266px;
+}
+
+.skills-tab {
+   text-indent: 1em;
 }
